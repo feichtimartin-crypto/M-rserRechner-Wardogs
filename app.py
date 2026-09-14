@@ -147,7 +147,7 @@ with col2:
 # Berechnung
 # ------------------------------------------------------------
 if st.button("Distanz berechnen"):
-    distanz = math.sqrt((x_ziel - x_moerser) ** 2 + (y_ziel - y_moerser) ** 2)
+    distanz = math.sqrt((x_ziel - x_moerser) ** 2 + (y_ziel - y_moerser) ** 2) * 100
 
     st.markdown(
         f"""
