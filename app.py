@@ -165,8 +165,8 @@ if st.button("Distanz berechnen"):
 st.markdown(
     """
     <div class="wd-footer">
-        Wardogs Tool · gebaut für den Einsatz<br>
-        Join uns auf Discord: <a href="https://discord.gg/DEIN-INVITE-LINK" target="_blank">Afterwork Assault</a>
+        Wardogs Tool · gebaut für den Einsatz von Tescol<br>
+        Join uns auf Discord: <a href="https://discord.gg/DEIN-INVITE-LINK" target="_blank">Placeholder</a>
     </div>
     """,
     unsafe_allow_html=True,
