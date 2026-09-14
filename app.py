@@ -166,7 +166,7 @@ st.markdown(
     """
     <div class="wd-footer">
         Wardogs Tool · gebaut für den Einsatz von Tescol<br>
-        Join den Discord Server um andere Wardogs Spieler und andere Spiele zu finden: <a href="https://discord.gg/D5ZYfU9fW" target="_blank">Afterwork Assault</a>
+        Join den Discord Server um andere Spieler für Wardogs oder weitere Spiele zu finden: <a href="https://discord.gg/D5ZYfU9fW" target="_blank">Afterwork Assault</a>
     </div>
     """,
     unsafe_allow_html=True,
