@@ -166,6 +166,7 @@ st.markdown(
     """
     <div class="wd-footer">
         Wardogs Tool · gebaut für den Einsatz von Tescol<br>
+        Inspiration für die App war JulianCoM mit seiner Excel <a href="https://www.twitch.tv/juliancom">JulianCoM Twitch Link</a>
         Join den Discord Server um andere Spieler für Wardogs oder weitere Spiele zu finden: <a href="https://discord.gg/D5ZYfU9fW" target="_blank">Afterwork Assault</a>
     </div>
     """,
