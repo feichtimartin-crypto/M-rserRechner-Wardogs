@@ -135,13 +135,13 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.markdown("**💣 Mörser Standort**")
-    x_moerser = st.number_input("X Mörser", value=0.0, format="%.2f", key="x_moerser")
     y_moerser = st.number_input("Y Mörser", value=0.0, format="%.2f", key="y_moerser")
-
+    x_moerser = st.number_input("X Mörser", value=0.0, format="%.2f", key="x_moerser")
+    
 with col2:
     st.markdown("**🎯 Ziel**")
-    x_ziel = st.number_input("X Ziel", value=0.0, format="%.2f", key="x_ziel")
     y_ziel = st.number_input("Y Ziel", value=0.0, format="%.2f", key="y_ziel")
+    x_ziel = st.number_input("X Ziel", value=0.0, format="%.2f", key="x_ziel")
 
 # ------------------------------------------------------------
 # Berechnung
