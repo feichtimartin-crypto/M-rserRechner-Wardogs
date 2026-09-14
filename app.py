@@ -134,7 +134,7 @@ st.write(
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown("**💣 Mörser**")
+    st.markdown("**💣 Mörser Standort**")
     x_moerser = st.number_input("X Mörser", value=0.0, format="%.2f", key="x_moerser")
     y_moerser = st.number_input("Y Mörser", value=0.0, format="%.2f", key="y_moerser")
 
